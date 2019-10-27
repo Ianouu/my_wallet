@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03a9f4</color>
+    <color name="colorPrimaryDark">#02587f</color>
+    <color name="colorAccent">#039FE5</color>
+    <color name="colorAccentBis">#FFFFFF</color>
+    <color name="colorBcDropDown">#6fd1fd</color>
+
+    <color name="colorUpCoin">#b4daf5dc</color>
+    <color name="colorDownCoin">#1ee72c48</color>
+
+    <color name="colorGreen">#689f38</color>
+    <color name="colorRed">#ef5350</color>
+
+</resources>

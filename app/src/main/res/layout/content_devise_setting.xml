@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.iancl.mywallet.activities.DeviseSettingActivity"
+    tools:showIn="@layout/activity_devise_setting"
+    android:descendantFocusability="blocksDescendants"
+    >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp">
+
+            >
+            <TextView
+                android:id="@+id/textView_selectDevise"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_weight="0"
+                android:text="@string/choose_devise" />
+
+                <ListView
+                    android:id="@+id/listView_devise"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:entries="@array/devise_array" >
+
+                </ListView>
+
+            <RadioGroup
+                android:id="@+id/radioGroup_refresh"
+                android:layout_width="match_parent"
+                android:layout_height="200dp">
+
+                <TextView
+                    android:id="@+id/textView_selectTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_weight="0"
+                    android:text="@string/choose_timeRefresh" />
+
+                <RadioButton
+                    android:id="@+id/radioButton_7D"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:text="@string/radioButton_7D" />
+
+                <RadioButton
+                    android:id="@+id/radioButton_24H"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:text="@string/radioButton_24H" />
+
+                <RadioButton
+                    android:id="@+id/radioButton_1H"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:text="@string/radioButton_1H" />
+
+                <RadioButton
+                    android:id="@+id/radioButton_NA"
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:layout_weight="1"
+                    android:text="@string/radioButton_NA" />
+            </RadioGroup>
+
+        </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

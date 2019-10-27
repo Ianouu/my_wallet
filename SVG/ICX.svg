@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   width="7.5in"
+   height="7.5in"
+   viewBox="0 0 540 540"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ICX.svg">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ICON</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="857"
+     inkscape:window-height="480"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.49445096"
+     inkscape:cx="383.86054"
+     inkscape:cy="299.56128"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title3">ICON</title>
+  <circle
+     cx="269.78"
+     cy="266.47"
+     r="223.2"
+     style="fill: #1a1a1a"
+     id="circle5" />
+  <g
+     id="g7"
+     style="fill:#ffffff">
+    <path
+       d="M365.49,197.83l-31.36,31.36A76,76,0,0,1,229.18,334.14l-31.34,31.34A119.68,119.68,0,0,0,365.49,197.83ZM194,270a76,76,0,0,1,115.33-65.08l31.45-31.45A119.65,119.65,0,0,0,173.47,340.74l31.45-31.45A75.54,75.54,0,0,1,194,270Z"
+       style="fill:#ffffff"
+       id="path9" />
+    <circle
+       cx="389.74"
+       cy="150.26"
+       r="31.46"
+       style="fill:#ffffff"
+       id="circle11" />
+    <circle
+       cx="150.26"
+       cy="389.74"
+       r="31.46"
+       style="fill:#ffffff"
+       id="circle13" />
+  </g>
+</svg>

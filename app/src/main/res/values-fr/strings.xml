@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FILE url-->
+    <string name="FILE_DATA_CURRENCY">currencyData</string>
+
+    <!-- String app-->
+    <string name="app_name">MyWallet</string>
+    <string name="action_settings">Paramètre</string>
+    <string name="amount">Quantité</string>
+    <string name="sold">Total</string>
+    <string name="title_activity_settings">Ajouter une crypto-monaie</string>
+    <string name="name">Nom</string>
+
+    <string name="toast_delete"> à été suprimée</string>
+    <!-- Strings related to Settings -->
+
+    <string name="alertDialogRemoveCUR_title"> Attention</string>
+    <string name="alertDialogRemoveCUR_content"> Êtes vous sûr de supprimer cette crypto-monaie ?</string>
+
+    <string name="yes"> Oui</string>
+    <string name="no">Non</string>
+
+    <string name="action_changedevise">Changer de devise</string>
+    <string name="not_loaded">Impossible de charger les données</string>
+    <string name="search_currency">Cherchez des crypto-monaie</string>
+    <string name="search_amount">Combien en avez vous ?</string>
+
+
+    <string name="title_activity_setting">Ajouter crypto-monaie</string>
+    <string name="currency_name">Nom</string>
+    <string name="settings_amount">Quantité</string>
+    <string name="settings_addCurrency">Ajouter</string>
+    <string name="toast_add">Crypto-monnaie ajoutée</string>
+    <string name="title_activity_devise_setting">DeviseSettingActivity</string>
+
+    <string-array name="devise_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <item>CNY</item>
+        <item>RUB</item>
+    </string-array>
+    <string name="devise_changed">Devise changée</string>
+    <string name="title_activity_settings_devise">Paramètre de devise</string>
+    <string name="help_title">Aide</string>
+    <string name="legal_title">Legal</string>
+
+    <string name="help_text">
+        Voici <b>MY Wallet APP</b>\nIci vous pouvez visionnez votre montant de votre porte-feuille. Les valeurs sont rafraichies
+        lorsque vous swipez vers le haut.
+        Maintenez un long click pour supprimer une crypto-monnaie.
+    </string>
+
+
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Ajouter le widget</string>
+    <string name="no_internet">Il n\'y a pas de connection internet...</string>
+    <string name="radioButton_7D">7 Jours</string>
+    <string name="radioButton_24H">24 Heures</string>
+    <string name="radioButton_1H">1 Heure</string>
+    <string name="choose_devise">Sélectionnez votre crypto-monnaie</string>
+    <string name="choose_timeRefresh">Sélectionnez la durée d\'évolution</string>
+    <string name="button_rateMe">Notez moi</string>
+    <string name="button_emailMe">Envoyez moi un email</string>
+    <string name="rang">Rang</string>
+    <string name="variation">Variation</string>
+    <string name="about_text">
+        <![CDATA[<b>Merci</b> d\'utiliser cette application ! <br/>Si vous avez des idées d\'améliorations, envoyez moi un mail.
+    Actuellement, je suis pas un développeur à plein temps, merci d\'être indulgent avec mon temps de réponse :).
+   ]]></string>
+    <string name="tab_client_coins">Vos cryptos</string>
+    <string name="tab_all_coins">Toutes les cryptos</string>
+
+</resources>

@@ -1,0 +1,135 @@
+<resources>
+    <!-- API url-->
+    <string name="API_COINS_LIST">https://api.coinmarketcap.com/v1/ticker/</string>
+
+    <!-- FILE url-->
+    <string name="FILE_DATA_CURRENCY">currencyData</string>
+    <string name="FILE_ALL_COINS">allCoins</string>
+    <!-- String app-->
+    <string name="app_name">MyWallet</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount">Amount</string>
+    <string name="sold">Cash</string>
+    <string name="name">Name</string>
+
+    <string name="title_activity_settings">Add Currency</string>
+
+    <string name="toast_delete"> is deleted</string>
+    <!-- Strings related to Settings -->
+
+    <string name="alertDialogRemoveCUR_title"> Warning</string>
+    <string name="alertDialogRemoveCUR_content"> Are you sure to delete this currency ?</string>
+
+    <string name="yes"> Yes</string>
+    <string name="no">No</string>
+
+    <string name="action_changedevise">Change currency</string>
+
+    <string name="not_loaded">Cannot load the data</string>
+    <string name="search_currency">Look for currencies...</string>
+    <string name="search_amount">How many do you have ?</string>
+    <string name="connectionError">There is an internet problem...</string>
+
+
+    <string name="title_activity_setting">Add Currency</string>
+    <string name="currency_name">Currency name</string>
+    <string name="settings_amount">Amount</string>
+    <string name="settings_addCurrency">Add</string>
+    <string name="toast_add">Currency added</string>
+    <string name="title_activity_devise_setting">DeviseSettingActivity</string>
+
+    <string-array name="devise_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <item>CNY</item>
+        <item>RUB</item>
+    </string-array>
+    <string name="devise_changed">Devise changed</string>
+    <string name="title_activity_settings_devise">Settings</string>
+    <string name="help_title">Help</string>
+    <string name="legal_title">Legal</string>
+
+    <string name="help_text">
+        This is <b>MY Wallet APP</b>\n\nHere you can add an cryptoDevise to your wallet and show at the instant moment all your money.
+        \nSwipe on top to refresh.
+        \n\nHold a long click on a currency to delete it.
+
+    </string>
+
+    <string name="legal_text" translatable="false">
+<![CDATA[
+
+<h2>Google Play Services</h2>
+<h3>Log Data</h3>
+<br/>
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+<br/>
+<h3>Cookies</h3>
+<br/>
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory.
+<br/>
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+<br/>
+<h3>Service Providers</h3>
+<br/>
+I may employ third-party companies and individuals due to the following reasons:
+<br/>
+To facilitate our Service;<br/>
+To provide the Service on our behalf;<br/>
+To perform Service-related services; or<br/>
+To assist us in analyzing how our Service is used.<br/>
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+<br/>
+<h3>Changes to This Privacy Policy</h3>
+<br/>
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+<br/>
+<h2>Contact Us</h2>
+<br/>
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+<br/>
+<h2>Resources</h2>
+<br/>
+Some pictures are mines but,
+<br/>
+MOST of the pictures of coins are taken from the great work of Martin Allien
+<br/>You can find the project here, https://github.com/allienworks/cryptocoins
+<br/>
+https://allien.work/
+<br/>
+<br/> The use's API is from https://coinmarketcap.com
+     ]]></string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_internet">There is no internet connexion...</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="radioButton_7D">7 Days</string>
+    <string name="radioButton_24H">24 Hours</string>
+    <string name="radioButton_1H">1 Hours</string>
+    <string name="choose_devise">Select your devise</string>
+    <string name="choose_timeRefresh">Select the duration of evolution</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+
+
+    <string name="radioButton_NA">No colors</string>
+    <string name="about_title">About / Feedback</string>
+    <string name="title_activity_about"></string>
+    <string name="about_text">
+        <![CDATA[<b>Thank you</b> for using this APP ! <br/>If you had idea of improvements you can email me.
+    Currently I\'m not a full time developper, so please be indulgent with my response time :).
+   ]]></string>
+    <string name="button_rateMe">Rate me</string>
+    <string name="button_emailMe">Email Me</string>
+    <string name="rang">Rank</string>
+    <string name="variation">Variation</string>
+    <string name="tab_client_coins">Yours cryptos</string>
+    <string name="tab_all_coins">All cryptos</string>
+
+
+</resources>

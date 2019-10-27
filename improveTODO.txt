@@ -1,0 +1,14 @@
+BUGS REPPORTS:
+* Refresh widget
+
+IMPROVE REPORTS:
+* Ajouter des couleurs à AMMOUNT et TOTAL
+* Ajouter photo(icones) des coins
+*
+
+* DEL monnaie par id
+
+
+FUTUR MAJ:
+* Ajouter la liste des coins avec leurs prix actuels
+* Ajout de notification
